@@ -1,6 +1,6 @@
 # Nisha-Heydar-Bio-
 
-<<<<<<< HEAD
+
 # Nisha profile
 
 - **Age:** 34
