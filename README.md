@@ -9,9 +9,6 @@
 =======
 # Heydar profile
 
-- Name: Heydar
-- Age: 36 
-- Nationality: Persian 
-- Favourite Food: Grill 
+
 
 
